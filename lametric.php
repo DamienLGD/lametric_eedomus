@@ -1,7 +1,7 @@
 <?php
 
 $url = "xxxx";
-$token = "xxx";
+$token = "xxxx";
 
 if(isset($_GET['valeur']))
 {
