@@ -5,7 +5,7 @@
 4. Donner un nom et une description à votre app et cocher "Private app" puis cliquer sur "Save" :
 5. Publier l’application puis installer là sur votre LaMetric grâce à l’application mobile.
 6. Mettre ce script sur un serveur web (autre que la Eedomus) 
-7. Ajouter un actionneur http et ajouter les URL comme ceci: http://url_nas/lametric.php?valeur=youpi&icon=i135 ou si cela ne fonctionne pas sur votre navigateur comme ceci:
+7. Ajouter un actionneur http et ajouter les URL comme ceci: http://url_nas/lametric.php?valeur=youpi?icon=i135 ou si cela ne fonctionne pas sur votre navigateur comme ceci:
 http://url_nas/lametric.php?valeur=youpi&icon=i135
 
 Explication:
