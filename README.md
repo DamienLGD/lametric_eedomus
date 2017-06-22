@@ -4,7 +4,7 @@
 3. Configurer une icone, un nom et sélectionner Push dans "Communication type" :
 4. Donner un nom et une description à votre app et cocher "Private app" puis cliquer sur "Save" :
 5. Publier l’application puis installer là sur votre LaMetric grâce à l’application mobile.
-6. Modifier le script pour y ajouter l'URL local que vous avez récupéré sur le site de LaMetric ainsi que votre token
+6. Modifier le script pour y ajouter l'URL local (à la place de your_url) que vous avez récupéré sur le site de LaMetric ainsi que votre token (à la place de your_token)
 7. Mettre ce script sur un serveur web (autre que la Eedomus) 
 8. Ajouter un actionneur http et ajouter les URL comme ceci: http://ip_nas/lametric.php?valeur=youpi&icon=i135 ou si cela ne fonctionne pas sur votre navigateur comme ceci:
 http://ip_nas/lametric.php?valeur=youpi?icon=i135
